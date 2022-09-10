@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ADITYAKUMAR69786/ADITYAKUMAR69786/blob/main/LINKEDIN%20BANNER.png)
 <h1 align="center">Hi 👋, I'm ADITYA KUMAR VERMA</h1>
 <h3 align="center">Developer | 4⭐ @Hackerank | Web Developer | SIH-2022 UNIVERSITY FINALIST | AWS ML SCHOLAR 2021 | ML Enthusiast | Freelancer</h3>
 
