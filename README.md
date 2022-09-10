@@ -1,7 +1,8 @@
 ![logo](https://github.com/ADITYAKUMAR69786/ADITYAKUMAR69786/blob/main/LINKEDIN%20BANNER.png)
-<h1 align="center">Hi 👋, I'm ADITYA KUMAR VERMA</h1>
+<h1 align="center">Hello there, I'm ADITYA KUMAR VERMA</h1>
 <h3 align="center">Developer | 4⭐ @Hackerank | Web Developer | SIH-2022 UNIVERSITY FINALIST | AWS ML SCHOLAR 2021 | ML Enthusiast | Freelancer</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/77196597/189493655-50964185-5366-49d2-b8a5-705b4aa81a54.png)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar69786&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar69786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakumar69786" alt="adityakumar69786" /></a> </p>
