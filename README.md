@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya kumar verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kumar verma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aditya_k_verma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aditya_k_verma20" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aditya_k_verma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aditya_k_verma20" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityaverma2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityaverma2020" height="30" width="40" /></a>
 </p>
 
