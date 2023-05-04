@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakumar69786" alt="adityakumar69786" /></a> </p>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT AND CS SUBJECTS IN GENERAL**
+- 🌱 I’m currently learning **FULL STACK DEVELOPMENT AND MACHINE LEARNING IN GENERAL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADITYAKUMAR69786/PROJECTS](https://github.com/ADITYAKUMAR69786/PROJECTS)
 
