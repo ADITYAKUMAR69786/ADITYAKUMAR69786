@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **WEB DEVELOPMENT | MACHINE LEARNING | MANAGEMENT | GRAPHIC DESIGNING | FREELANCING**
 
-- 📫 How to reach me **aditya.kumar69786@gmail.com**
+- 📫 How to reach me **[aditya.kumar69786@gmail.com](https://linktr.ee/ADITYA_KUMAR_VERMA)**
 
 - 📄 Know about my experiences https://adityakumar69786.github.io/PORTFOLIO-WEBSITE/)
 
